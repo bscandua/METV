@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="bein1" tvg-name="BeIN Sports 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",BeIN Sports 1
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dow16a1wo44i5e.bbcc6ceafde6538b.live/live/selcukbeinsports1/playlist.m3u8
+https://df16ea90s1u1080.ae98fce1d1c8fa61.live/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-id="bein2" tvg-name="BeIN Sports 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",BeIN Sports 2
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://dow16a1wo44i5e.bbcc6ceafde6538b.live/live/selcukbeinsports2/playlist.m3u8
@@ -22,7 +22,7 @@ https://dow16a1wo44i5e.bbcc6ceafde6538b.live/live/selcukbeinsportsmax1/playlist.
 https://dow16a1wo44i5e.bbcc6ceafde6538b.live/live/selcukbeinsportsmax2/playlist.m3u8
 #EXTINF:-1 tvg-id="tivibu1" tvg-name="Tivibu Spor 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dow16a1wo44i5e.bbcc6ceafde6538b.live/live/selcuktivibuspor1/playlist.m3u8
+https://df16ea90s1u1080.ae98fce1d1c8fa61.live/live/selcuktivibuspor1/playlist.m3u8
 #EXTINF:-1 tvg-id="tivibu2" tvg-name="Tivibu Spor 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="Spor",Tivibu Spor 2
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://dow16a1wo44i5e.bbcc6ceafde6538b.live/live/selcuktivibuspor2/playlist.m3u8
